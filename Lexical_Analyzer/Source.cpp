@@ -1,12 +1,12 @@
 #include "Lexical_Analyzer.h"
-#include "Draw_Intro.h"
+#include "Intro_Drawer.h"
 
 int main()
 {
 	char again = 'Y';
 	std::string path = "", fileContent = "";
 	Lexical_Analyzer s;
-	Draw_Intro drw;
+	Intro_Drawer drw;
 
 	do
 	{

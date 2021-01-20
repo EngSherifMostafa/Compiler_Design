@@ -139,11 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Draw_Intro.h" />
+    <ClInclude Include="Intro_Drawer.h" />
     <ClInclude Include="Lexical_Analyzer.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Draw_Intro.cpp" />
+    <ClCompile Include="Intro_Drawer.cpp" />
     <ClCompile Include="Lexical_Analyzer.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
